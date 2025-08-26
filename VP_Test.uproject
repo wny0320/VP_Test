@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.5",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "nDisplay",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "Switchboard",
+			"Enabled": true
+		},
+		{
+			"Name": "ICVFX",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkVRPN",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"WindowsEditor",
+		"Linux",
+		"LinuxEditor"
+	]
+}
